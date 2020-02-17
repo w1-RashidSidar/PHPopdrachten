@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+}
+
+h1
+{
+    background-color: lightblue;
+    padding-left: 60%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+aside
+{
+    background-color: burlywood;
+    width: 450px;
+    padding: 2%;
+}
+
+#wrapper
+{
+    position: absolute;
+    left: 520px;
+    top: 65px;
+}
