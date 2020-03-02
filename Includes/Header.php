@@ -32,5 +32,8 @@
         <header>
             <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
         </header>
+        <main id="wrapper">
+            <h2>Uitwerkingen</h2>
+        </main>
     </body>
 </html>
