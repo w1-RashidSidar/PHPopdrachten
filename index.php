@@ -28,11 +28,10 @@
 <body>
     <?php
         Include "Includes/Header.php";
+        Include "Includes/Menu.php";
+        Include "Includes/Uitwerkingen.php";
     ?>
 
-    <?php
-        Include "Includes/Menu.php";
-    ?>
 </body>
 
 </html>

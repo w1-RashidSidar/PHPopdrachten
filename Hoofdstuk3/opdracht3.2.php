@@ -1,12 +1,13 @@
 <?php
 include "../includes/Header.php";
 include "../Includes/Menu.php";
+include "../Includes/Uitwerkingen.php";
 ?>
     <html lang="en">
     <body>
-        <main id="wrapper">
-            <h2>Uitwerkingen</h2>
-        </main>
+<!--        <main id="wrapper">-->
+<!--            <h2>Uitwerkingen</h2>-->
+<!--        </main>-->
 
 
 <?php
