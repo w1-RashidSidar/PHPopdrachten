@@ -20,4 +20,8 @@ aside
     padding: 2%;
     margin-right: 10px;
 }
-
+.footer
+{
+    position: absolute;
+    bottom: 0px;
+}
