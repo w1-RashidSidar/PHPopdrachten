@@ -1,13 +1,12 @@
 <?php
 include "../includes/Header.php";
 include "../Includes/Menu.php";
-include "../Includes/Uitwerkingen.php";
 ?>
     <html lang="en">
     <body>
-<!--        <main id="wrapper">-->
-<!--            <h2>Uitwerkingen</h2>-->
-<!--        </main>-->
+    <h1>
+            Uitwerkingen
+    </h1>
 
 
 <?php
@@ -50,8 +49,7 @@ include "../Includes/Uitwerkingen.php";
     }
 
 ?>
-
-        </body>
-    </html>
+<?php
+include "../Includes/Footer.php";
 
 

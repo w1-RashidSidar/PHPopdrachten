@@ -67,6 +67,7 @@ echo               "<p>" .
                         $text7.$text10 . $text14 . $text9 .
                     "</p>"
     ?>
+    <a href="../index.php">Terug</a>
     </body>
 </html>
 

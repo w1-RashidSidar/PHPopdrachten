@@ -19,7 +19,7 @@
         <!-- keywords van de website -->
         <meta name="keywords" content="keyword 1, keyword 2">
         <!-- koppeling naar CSS bestand -->
-        <link type="text/css" rel="stylesheet" href="../CSS/Style.css">
+        <link type="text/css" rel="stylesheet" href="/phpopdrachten/CSS/Style.css">
         <title>
             Template
         </title>
@@ -32,7 +32,5 @@
     $base_url = 'https://localhost/PHPopdrachten/'
     ?>
         <header>
-            <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
+            <h1 id="header"><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
         </header>
-    </body>
-</html>

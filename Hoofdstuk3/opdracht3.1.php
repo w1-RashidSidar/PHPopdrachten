@@ -28,15 +28,15 @@
         <?php
             $evenement = "Elfstedentocht"; //string
             $evenementFries = "Alvestêdetocht)"; //string
-            $afstand = "200"; //integer
+            $afstand = 200; //integer
             $tocht = "schaatstocht"; //string
             $ijssoort = "natuurijs"; //string
             $organisatie = "Koninklijke Vereniging De Friesche Elf Steden."; //string
             $hoofdstad = "Leeuwarden,"; //string
             $land = "Friesland,"; //string
-            $aantalKeer = "15"; //integer
-            $eersteKeer = "1909"; //integer
-            $maxKeerWinter = "1"; //integer
+            $aantalKeer = 15; //integer
+            $eersteKeer = 1909; //integer
+            $maxKeerWinter = 1; //integer
 
             $verhaal = "De Elfstedentocht (Fries: Alvestêdetocht) is een 200 kilometer
                         lange schaatstocht over natuurijs die wordt georganiseerd door
@@ -57,5 +57,6 @@
                     "</p>"
             ?>
         </p>
+        <a href="../index.php">Terug</a>
     </body>
 </html>
