@@ -7,19 +7,13 @@
  */
 ?>
 
-        <?php
-        Include "../Includes/Header.php";
-        Include "../Includes/Menu.php";
-        ?>
-<!DOCTYPE html>
-<html lang="en">
-        <body>
+<?php
+Include "../Includes/Header.php";
+Include "../Includes/Menu.php";
+?>
 
-        <h1> Uitwerkingen</h1>
-        <p> hello </p>
+    <h1> Uitwerkingen</h1>
 
-        </body>
-</html>
-        <?php
-        Include "../Includes/Footer.php";
-        ?>
+<?php
+Include "../Includes/Footer.php";
+?>
